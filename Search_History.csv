@@ -1,0 +1,7 @@
+﻿H_Id,Username,Carparkid,Total_Duration,Total_Cost,Search_Type 
+1,admin,KU2,30,0.6,HDB
+2,test1,CK15,25,0.5,HDB
+3,admin,Z01,75,1.25,NON-HDB
+4,admin,BBM5,40,0.8,HDB
+5,test1,AM16,30,0.6,HDB
+6,test1,Z103,90,4.5,NON-HDB
